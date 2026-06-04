@@ -1,5 +1,3 @@
-Copy this into your GitHub README:
-
 # Terraform AWS Infrastructure Project
 
 ## Overview
